@@ -31,13 +31,13 @@
                         <a class="nav-link <?= $a ?>" href="index.php"><span>Home</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link <?= $b ?>" href="about.php"><span>About us</span></a>
+                        <a class="nav-link <?= $b ?>" href="#about-us-section"><span>About us</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link <?= $c ?>" href="courses.php"><span>Courses</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link <?= $d ?>" href="contact.php"><span>Contact Us</span></a>
+                        <a class="nav-link <?= $d ?>" href="#contact-form"><span>Contact Us</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link <?= $e ?>" href="book-online.php"><span>Book Online</span></a>

@@ -20,7 +20,7 @@ include_once 'navbar.php';
     </div>
 </div>
 
-<div class="section bg-green">
+<div class="section bg-green" id="about-us-section">
     <div class="container">
         <div class="default-heading pt-0">
             <h2>About us</h2>

@@ -23,7 +23,7 @@ include_once 'navbar.php';
 <div class="section bg-green">
     <div class="container">
         <div class="default-heading pt-0">
-            <h2>About us</h2>
+            <h2>Essential Endodontics</h2>
         </div>
         <div>
             <h4 class="font-designer">A modern Approach for the GDP</h4>

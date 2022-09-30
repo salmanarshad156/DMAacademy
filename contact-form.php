@@ -78,7 +78,7 @@ if (isset($_POST["email"])) {
                     </div>
                 </div>
             </div> -->
-            <div class="row">
+            <div class="row" id="contact-form">
                 <div class="col-12">
                     <p class="DGhead">Email us on <a style="color:white !important;text-decoration: none !important;"href="mailto:info@dmaacademy.co.uk">info@dmaacademy.co.uk</a></p>
                 </div>
@@ -92,7 +92,7 @@ if (isset($_POST["email"])) {
     <!-- Contact form starts -->
 
     <!-- Wrapper container -->
-    <div class="container py-4">
+    <div class="container py-4" >
         <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-8">
