@@ -14,7 +14,7 @@ if (isset($_POST["email"])) {
     }
 
 
-    $to_email = 'info@dimensiondigital.co.uk';
+    $to_email = 'faseehullah2121@gmail.com';
     $subject = 'New query from Dimension Digital';
     $message = "<html><head><title>HTML email</title></head><body><strong>Name:</strong> $fname<br/><strong>Contact:</strong> $contact<br/><strong>Email:</strong> $email<br/><strong>Best Day to Contact:</strong> $bestday<br/><strong>Best Time to Contact:</strong> $besttime<br/><strong>Description:</strong> $description<br/>
     <strong>Service Required:</strong> $kuchBhi</body></html>";
@@ -64,7 +64,7 @@ if (isset($_POST["email"])) {
         <div class="container-fluid" style="padding-bottom: 0px !important;margin-bottom: -21px !important;">
 
             <!-- Top Headings-->
-            <div class="row">
+       <!--MFU COMMENTING     <div class="row">
                 <div class="col-12 DGhead">
                     <div>
                         <p> Our Services will include:</p>
@@ -77,10 +77,10 @@ if (isset($_POST["email"])) {
                         </ul>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="row">
                 <div class="col-12">
-                    <p class="DGhead">Email us on <a href="mailto:info@dimensiondigital.co.uk">info@dimensiondigital.co.uk</a></p>
+                    <p class="DGhead">Email us on <a style="color:white !important;text-decoration: none !important;"href="mailto:info@dmaacademy.co.uk">info@dmaacademy.co.uk</a></p>
                 </div>
                 <div class="col-12 DGhead">
                     <p>Or complete the form below to request a call back</p>
@@ -117,7 +117,7 @@ if (isset($_POST["email"])) {
                             please enter a valid contact number
                         </div>
                     </div>
-                    <!--Drop down STARTS-->
+                 <!--Drop down STARTS-->
                     <div class="row">
                         <div class="col-12 col-lg-6">
                             <div class="form-group">
@@ -146,44 +146,44 @@ if (isset($_POST["email"])) {
                     </div>
 
                     <!--Drop down ENDS-->
-                    <div class="mb-3 ">
-                        <label class="form-label" >Please select the services you are interested in</label>
+                    <!--MFU COMMENTS        <div class="mb-3 ">
+                             <label class="form-label" >Please select the services you are interested in</label>
 
-                        <div class="form-check">
+                             <div class="form-check">
 
-                            <input class="form-check-input" name="servicetype[] "type="checkbox" value="Videography" id="Videography">
-                            <label class="form-check-label" for="Videography">
-                                Videography
-                            </label>
+                                 <input class="form-check-input" name="servicetype[] "type="checkbox" value="Videography" id="Videography">
+                                 <label class="form-check-label" for="Videography">
+                                     Videography
+                                 </label>
 
 
-                        </div>
-                        <div class="form-check">
-                            <input class="form-check-input" name="servicetype[]" type="checkbox" value="Photography" id="Photography">
-                            <label class="form-check-label" for="Photography">
-                                Photography
-                            </label>
-                        </div>
-                        <div class="form-check">
-                            <input class="form-check-input" name="servicetype[]" type="checkbox" value="Design & Content Creation" id="design-content-creation">
-                            <label class="form-check-label" for="design-content-creation">
-                                Design & Content Creation
-                            </label>
-                        </div>
-                        <div class="form-check">
-                            <input class="form-check-input" name="servicetype[]"  type="checkbox" value="Web-Design" id="Web-Design">
-                            <label class="form-check-label" for="Web-Design">
-                                Web Design
-                            </label>
-                        </div>
-                        <div class="form-check">
-                            <input class="form-check-input" name="servicetype[]" type="checkbox" value="Social-Media-Management" id="Social-Media-Management">
-                            <label class="form-check-label" for="Social-Media-Management">
-                                Social Media Management
-                            </label>
-                        </div>
-                    </div>
-                    <!-- Message input -->
+                             </div>
+                             <div class="form-check">
+                                 <input class="form-check-input" name="servicetype[]" type="checkbox" value="Photography" id="Photography">
+                                 <label class="form-check-label" for="Photography">
+                                     Photography
+                                 </label>
+                             </div>
+                             <div class="form-check">
+                                 <input class="form-check-input" name="servicetype[]" type="checkbox" value="Design & Content Creation" id="design-content-creation">
+                                 <label class="form-check-label" for="design-content-creation">
+                                     Design & Content Creation
+                                 </label>
+                             </div>
+                             <div class="form-check">
+                                 <input class="form-check-input" name="servicetype[]"  type="checkbox" value="Web-Design" id="Web-Design">
+                                 <label class="form-check-label" for="Web-Design">
+                                     Web Design
+                                 </label>
+                             </div>
+                             <div class="form-check">
+                                 <input class="form-check-input" name="servicetype[]" type="checkbox" value="Social-Media-Management" id="Social-Media-Management">
+                                 <label class="form-check-label" for="Social-Media-Management">
+                                     Social Media Management
+                                 </label>
+                             </div>
+                         </div> -->
+                         <!-- Message input -->
                     <div class="mb-3">
                         <!--  <label class="form-label" for="message">Message</label>  -->
                         <textarea class="form-control" id="message" name="message" type="text" placeholder="Message" style="height: 10rem;"></textarea>

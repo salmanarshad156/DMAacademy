@@ -12,7 +12,7 @@
                         <a href="#"><i class="fab fa-twitter"></i></a>
                     </div>
                     <div>
-                        <a href="#">info@dimensiondigital.co.uk</a>
+                        <a href="#">info@dmaacademy.co.uk</a>
                     </div>
                     <div>
                         <a href="#">Leeds, 9 Marsden Avenue, LS11 7NS</a>
@@ -40,7 +40,7 @@
     </div>
     <div class="bg-green py-3">
         <div>
-            © 2022 DIMENSION DIGITAL-ALL RIGHTS RESERVED
+            © 2022 DMA ACADEMY-ALL RIGHTS RESERVED
         </div>
         <div>
             <a href="#">PRIVACY POLICY</a>/<a href="#">COOKIE POLICY</a>
