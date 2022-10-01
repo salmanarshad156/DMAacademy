@@ -417,6 +417,65 @@ img {
     min-height: 320px;
 }
 
+
+/*FAQ*/
+#main .card{
+    margin-bottom: 10px;
+    background: transparent;
+}
+
+#main .card-body {
+    z-index: 0;
+    position: relative;
+    text-align: left;
+    color: white;
+    background: rgba(0, 110, 68, .7);
+}
+
+#main .card-header{
+    background: #006E44;
+
+}
+
+#main .btn-header-link{
+    color: white !important;
+    /*font-size: 24px;*/
+    letter-spacing: 1px;
+    display: block;
+    text-align: left;
+    /*padding-top: 10px;*/
+    font-family: 'Century Gothic', sans-serif;
+    font-weight: bold;
+}
+#main .btn-header-link:focus{
+    box-shadow: none;
+}
+
+#main .btn-header-link:after {
+    font-family: 'Font Awesome 5 Free';
+    content: "\f068";
+    font-weight: 900;
+    float: right;
+    font-size: 12px;
+    color: white;
+    margin-top: 5px;
+
+}
+#main .btn-header-link.collapsed:after {
+    font-family: 'Font Awesome 5 Free';
+    content: "\f067";
+    font-weight: 900;
+    float: right;
+    font-size: 12px;
+    color: white;
+    margin-top: 5px;
+}
+
+#main .btn{
+    white-space: initial;
+}
+
+
 @media screen and (max-width: 991px) {
     .nav-item{
         width: 100%;

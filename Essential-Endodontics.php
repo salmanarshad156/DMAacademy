@@ -131,6 +131,118 @@ include_once 'navbar.php';
     </div>
 </div>
 
+<div class="section text-center">
+    <div class="default-heading bg-green mb-4">
+        <h2>FAQS</h2>
+    </div>
+    <div class="questions-container">
+        <div id="main">
+            <div class="container">
+                <div class="accordion" id="faq">
+                    <div class="card">
+                        <div class="card-header" id="faq-head1">
+                            <h2>
+                                <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse"
+                                   data-target="#faq1"
+                                   aria-expanded="true" aria-controls="faq1">
+                                    1. Who is the Diploma accredited by and is it a real Diploma?
+                                </a>
+                            </h2>
+                        </div>
+
+                        <div id="faq1" class="collapse" aria-labelledby="faq-head1" data-parent="#faq">
+                            <div class="card-body">
+                                The Diploma is accredited and awarded by EduQual (level 7)
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="faq-head2">
+                            <h2>
+                                <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse"
+                                   data-target="#faq2"
+                                   aria-expanded="true" aria-controls="faq2">
+                                    2. How is the Diploma cost so competitive?
+                                </a>
+                            </h2>
+                        </div>
+
+                        <div id="faq2" class="collapse" aria-labelledby="faq-head2" data-parent="#faq">
+                            <div class="card-body">
+                                As a business we are not providing courses only, we are also SmileFast implant lab, we
+                                have multiple revenue streams allowing us to layer profit across different products, not
+                                all in one area such as the course fee.
+                                <br><br>
+                                We want to break down the barriers to learning implants and high course fees was one of
+                                those barriers, we have a business model which gives you value as well as maintaining a
+                                high standard of education.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="faq-head3">
+                            <h2>
+                                <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse"
+                                   data-target="#faq3"
+                                   aria-expanded="true" aria-controls="faq3">
+                                    3. Who are the lead clinicians for the Diploma?
+                                </a>
+                            </h2>
+                        </div>
+
+                        <div id="faq3" class="collapse" aria-labelledby="faq-head3" data-parent="#faq">
+                            <div class="card-body">
+                                Fazeela Khan Osbourne and Jon Swarbrigg are the lead clinicians for the Diploma in
+                                implant dentistry, click on their image on the home page to see their full bio, combined
+                                they have over 30 year’s experience in implant dentistry.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="faq-head4">
+                            <h2>
+                                <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse"
+                                   data-target="#faq4"
+                                   aria-expanded="true" aria-controls="faq4">
+                                    4. Which implant system do I use for the Diploma?
+                                </a>
+                            </h2>
+                        </div>
+
+                        <div id="faq4" class="collapse" aria-labelledby="faq-head4" data-parent="#faq">
+                            <div class="card-body">
+                                The Diploma teaches the principles of implant placement and restorative dentistry, this
+                                can be applied to any implant system following the Diploma, however all componentry for
+                                the 12-month Diploma will be provided by Bio Horizons.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card mb-0">
+                        <div class="card-header" id="faq-head5">
+                            <h2>
+                                <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse"
+                                   data-target="#faq5"
+                                   aria-expanded="true" aria-controls="faq5">
+                                    5. Where are the hands-on surgical days based?
+                                </a>
+                            </h2>
+                        </div>
+
+                        <div id="faq5" class="collapse" aria-labelledby="faq-head5" data-parent="#faq">
+                            <div class="card-body">
+                                The 6 hands on surgical days will be at the following hotel address
+                                The Sheraton Skyline Hotel, Heathrow, London, UB3 5BP, dates will be confirmed in your
+                                welcome email.
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
 <div class="contact-wrap">
     <?php
     include_once 'contact-form.php';
