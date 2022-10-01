@@ -18,16 +18,16 @@
                         <a href="#">Leeds, 9 Marsden Avenue, LS11 7NS</a>
                     </div>  -->
                 </div>
-                
+
             </div>
         </div>
     </div>
     <div class="bg-green py-3">
         <div>
-            © 2022 DMA ACADEMY-ALL RIGHTS RESERVED
+            © 2022 DMA Academy-All Rights Reserved
         </div>
         <div>
-            <a href="#">PRIVACY POLICY</a>/<a href="#">COOKIE POLICY</a>
+            <a href="#">Privacy policy</a>/<a href="#">Cookie Policy</a>
         </div>
     </div>
 </footer>
