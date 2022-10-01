@@ -5,9 +5,9 @@
     </div>
 </div>
 <script>
-    $(window).on('load', function() { // makes sure the whole site is loaded
+    $(window).on('load', function () { // makes sure the whole site is loaded
         $('#preloader').delay(350).fadeOut('fast'); // will fade out the white DIV that covers the website.
-        $('html').css({'overflow-y':'auto'});
+        $('html').css({'overflow-y': 'auto'});
     });
 </script>
 <div class="nav-container" id="nav-con">
@@ -33,8 +33,48 @@
                     <li class="nav-item">
                         <a class="nav-link <?= $b ?>" href="#about-us-section"><span>About us</span></a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?= $c ?>" href="courses.php"><span>Courses</span></a>
+                    <li class="nav-item position-relative">
+                        <a class="nav-link dropdown-button1 <?= $c ?>" href="courses.php">
+                            <span>Courses</span>
+                        </a>
+                        <span class="dropdown-icon">
+                            <i class="fa fa-chevron-down"></i>
+                        </span>
+                        <ul class="nav-dropdown nd2">
+                            <li class="position-relative">
+                                <a href="#" class="nav-link">Dental</a>
+                                    <span class="dropdown-icon">
+                                        <i class="fa fa-angle-right"></i>
+                                    </span>
+                                <ul class="nav-dropdown nav-sub nd2">
+                                    <li class="position-relative">
+                                        <a href="Essential-Endodontics.php" class="nav-link">Essential Endodontics</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="position-relative">
+                                <a href="#" class="nav-link">Medical</a>
+                                    <span class="dropdown-icon">
+                                        <i class="fa fa-angle-right"></i>
+                                    </span>
+                                <ul class="nav-dropdown nav-sub nd2">
+                                    <li class="position-relative">
+                                        <a href="#" class="nav-link">No Course Current</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="position-relative">
+                                <a href="#" class="nav-link">Aesthetics</a>
+                                <span class="dropdown-icon">
+                                    <i class="fa fa-angle-right"></i>
+                                </span>
+                                <ul class="nav-dropdown nav-sub nd2">
+                                    <li class="position-relative">
+                                        <a href="#" class="nav-link">Level 7 PG Dip in f19</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link <?= $d ?>" href="#contact-form"><span>Contact Us</span></a>

@@ -92,7 +92,7 @@ if (isset($_POST["email"])) {
     <!-- Contact form starts -->
 
     <!-- Wrapper container -->
-    <div class="container py-4" >
+    <div class="container pt-4" >
         <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-8">

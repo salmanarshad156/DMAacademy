@@ -72,28 +72,40 @@ include_once 'navbar.php';
 
         <div class="step-popup popup1 show-popup" id="popup-1">
             <div class="popup-wrap">
-                Lorem ipsum dolor sit amet
+                Dentistry has many disciplines to it so we aim to provide dentists with training to help them improve in
+                each of them so they can give their patients the very best care. Whether its learning how to effectively
+                communicate and gain consent or how to finally tackle that dreaded UL6 endo - we've got a course for it.
+                With the advancement of technology, we will always look to bring the latest techniques to dentists so
+                they can safely and predicatably provide the best patient care.
             </div>
         </div>
         <div class="step-popup popup2" id="popup-2">
             <div class="popup-wrap">
-                Some Text Here
+                Dentistry has many disciplines to it so we aim to provide dentists with training to help them improve in
+                each of them so they can give their patients the very best care. Whether its learning how to effectively
+                communicate and gain consent or how to finally tackle that dreaded UL6 endo - we've got a course for it.
+                With the advancement of technology, we will always look to bring the latest techniques to dentists so
+                they can safely and predicatably provide the best patient care.
             </div>
         </div>
         <div class="step-popup popup3" id="popup-3">
             <div class="popup-wrap">
-                Some Text Here For Aesthetics
+                Dentistry has many disciplines to it so we aim to provide dentists with training to help them improve in
+                each of them so they can give their patients the very best care. Whether its learning how to effectively
+                communicate and gain consent or how to finally tackle that dreaded UL6 endo - we've got a course for it.
+                With the advancement of technology, we will always look to bring the latest techniques to dentists so
+                they can safely and predicatably provide the best patient care.
             </div>
         </div>
     </div>
 </div>
-<div class="section pt-0">
+<div class="section py-0">
     <div class="default-heading bg-green">
         <h2>Course Schedule</h2>
     </div>
     <div class="container mt-4">
         <div class="row">
-            <div class="col-lg-3 col-md-6 mb-3">
+            <div class="col-lg-3 col-md-6 mb-4">
                 <div class="course-grid">
                     <img src="assets/img/doc-1.png" alt="">
                     <div class="course-overlay">
@@ -111,7 +123,7 @@ include_once 'navbar.php';
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 mb-3">
+            <div class="col-lg-3 col-md-6 mb-4">
                 <div class="course-grid">
                     <img src="assets/img/doc-2.png" alt="">
                     <div class="course-overlay">
@@ -131,7 +143,6 @@ include_once 'navbar.php';
         </div>
     </div>
 </div>
-
 
 
 <div class="contact-wrap">

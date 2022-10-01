@@ -7,7 +7,7 @@ include_once 'header.php';
 
 <?php
 $a = $b = $c = $d = $e = 'none';
-$b = 'nav-active';
+$c = 'nav-active';
 include_once 'navbar.php';
 ?>
 
@@ -38,7 +38,7 @@ include_once 'navbar.php';
     </div>
 </div>
 
-<div class="steps-section ">
+<div class="steps-section ed">
     <div class="steps-container">
         <div class="step">
             <div class="step-text">
@@ -60,14 +60,14 @@ include_once 'navbar.php';
         </div>
     </div>
 </div>
-<div class="section pt-0">
-    <div class="default-heading bg-green">
+<div class="section py-0">
+    <div class="default-heading bg-green mb-md-4">
         <h2>Your Speakers</h2>
     </div>
-    <div class="container mt-4 text-black">
-        <div class="row text-md-left align-items-center">
+    <div class="container text-black">
+        <div class="row text-md-left align-items-center mb-4">
             <div class="col-md-3 doc-1"></div>
-            <div class="col-md-9 py-3">
+            <div class="col-md-9 pt-3 py-md-3">
                 <h5 class="font-weight-bold">Dr Massimo Guivarruscio</h5>
                 <br>
                 Considered an opinion leader in his field, Dr Giovarruscio is a GDC
@@ -83,9 +83,9 @@ include_once 'navbar.php';
                 King’s College London Dental Institute to postgrads and undergrads.
             </div>
         </div>
-        <div class="row text-md-left align-items-center mt-3">
+        <div class="row text-md-left align-items-center mb-4">
             <div class="col-md-3 doc-2"></div>
-            <div class="col-md-9 py-3">
+            <div class="col-md-9 pt-3 py-md-3">
                 <h5 class="font-weight-bold">Dr Frederuci Ferreira</h5>
                 <br>
                 Considered an opinion leader in his field, Dr Giovarruscio is a GDC

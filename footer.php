@@ -1,11 +1,20 @@
 <footer>
-    <div class="bg-white py-5">
+    <section class="Signup">
+        <div class="Signup__text">
+            <h5 class="text-green text-center mb-4">Join our mailing list</h5>
+        </div>
+        <form class="Signup__form" id="newsletter">
+            <input required id="email" type="email" placeholder="Your e-mail">
+            <button form="newsletter" type="submit" class="btn-default">Get offers</button>
+        </form>
+    </section>
+    <div class="bg-white py-3 py-lg-5">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
                     <img src="assets/img/logo.png" alt="">
                 </div>
-                <div class="col-lg-6 py-5 py-lg-0">
+                <div class="col-lg-6 pt-3 pt-lg-0">
                     <div class="social-links">
                         <a href="#"><i class="fab fa-instagram"></i></a>
                         <a href="#"><i class="fab fa-facebook"></i></a>
@@ -31,3 +40,7 @@
         </div>
     </div>
 </footer>
+
+<div class="floating-btn">
+    <a href="#" class="btn-default">Book Online</a>
+</div>
