@@ -118,34 +118,34 @@ if (isset($_POST["email"])) {
                         </div>
                     </div>
                  <!--Drop down STARTS-->
-                    <div class="row">
-                        <div class="col-12 col-lg-6">
-                            <div class="form-group">
-                                <select name="bestday" class="contact-dropdown form-control custom-select" required>
-                                    <option selected>Best Day to Contact</option>
-                                    <option>Monday</option>
-                                    <option>Tuesday</option>
-                                    <option>Wednesday</option>
-                                    <option>Thursday</option>
-                                    <option>Friday</option>
-                                    <option>Saturday</option>
-                                    <option>Sunday</option>
-                                </select>
-                            </div>
-                        </div>
-                        <div class="col-12 col-lg-6">
-                            <div class="form-group">
-                                <select name="besttime" class="contact-dropdown form-control custom-select" required>
-                                    <option selected>Best Time to Contact</option>
-                                    <option>Morning</option>
-                                    <option>Afternoon</option>
-                                    <option>Evening</option>
-                                </select>
-                            </div>
-                        </div>
-                    </div>
+                    <!--MFU COMMENTS       <div class="row">
+                               <div class="col-12 col-lg-6">
+                                   <div class="form-group">
+                                       <select name="bestday" class="contact-dropdown form-control custom-select" required>
+                                           <option selected>Best Day to Contact</option>
+                                           <option>Monday</option>
+                                           <option>Tuesday</option>
+                                           <option>Wednesday</option>
+                                           <option>Thursday</option>
+                                           <option>Friday</option>
+                                           <option>Saturday</option>
+                                           <option>Sunday</option>
+                                       </select>
+                                   </div>
+                               </div>
+                               <div class="col-12 col-lg-6">
+                                   <div class="form-group">
+                                       <select name="besttime" class="contact-dropdown form-control custom-select" required>
+                                           <option selected>Best Time to Contact</option>
+                                           <option>Morning</option>
+                                           <option>Afternoon</option>
+                                           <option>Evening</option>
+                                       </select>
+                                   </div>
+                               </div>
+                           </div>  -->
 
-                    <!--Drop down ENDS-->
+                          <!--Drop down ENDS-->
                     <!--MFU COMMENTS        <div class="mb-3 ">
                              <label class="form-label" >Please select the services you are interested in</label>
 
