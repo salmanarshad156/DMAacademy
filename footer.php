@@ -2,39 +2,23 @@
     <div class="bg-white py-5">
         <div class="container">
             <div class="row align-items-center">
-                <div class="col-lg-4">
+                <div class="col-lg-6">
                     <img src="assets/img/logo.png" alt="">
                 </div>
-                <div class="col-lg-4 py-5 py-lg-0">
+                <div class="col-lg-6 py-5 py-lg-0">
                     <div class="social-links">
                         <a href="#"><i class="fab fa-instagram"></i></a>
                         <a href="#"><i class="fab fa-facebook"></i></a>
-                        <a href="#"><i class="fab fa-twitter"></i></a>
+                      <!--  <a href="#"><i class="fab fa-twitter"></i></a> -->
                     </div>
                     <div>
                         <a href="#">info@dmaacademy.co.uk</a>
                     </div>
-                    <div>
+             <!--       <div>
                         <a href="#">Leeds, 9 Marsden Avenue, LS11 7NS</a>
-                    </div>
+                    </div>  -->
                 </div>
-                <div class="col-lg-4">
-                    <div>
-                        <a href="#">Videography</a>
-                    </div>
-                    <div>
-                        <a href="#">Photography</a>
-                    </div>
-                    <div>
-                        <a href="#">Design & Content Creation</a>
-                    </div>
-                    <div>
-                        <a href="#">Web Design</a>
-                    </div>
-                    <div>
-                        <a href="#">Social Media Management</a>
-                    </div>
-                </div>
+                
             </div>
         </div>
     </div>

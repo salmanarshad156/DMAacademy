@@ -106,7 +106,7 @@ include_once 'navbar.php';
 
 <div class="section pt-0">
     <div class="default-heading bg-green mb-4">
-        <h2>courses overview</h2>
+        <h2>course overview</h2>
     </div>
     <div class="container text-left text-green">
         <h5 class="font-weight-bold">AIMS</h5>
