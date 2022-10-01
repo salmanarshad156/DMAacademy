@@ -34,7 +34,7 @@
                         <a class="nav-link <?= $b ?>" href="#about-us-section"><span>About us</span></a>
                     </li>
                     <li class="nav-item position-relative">
-                        <a class="nav-link dropdown-button1 <?= $c ?>" href="courses.php">
+                        <a class="nav-link dropdown-button1 <?= $c ?>" href="">
                             <span>Courses</span>
                         </a>
                         <span class="dropdown-icon">
@@ -70,7 +70,7 @@
                                 </span>
                                 <ul class="nav-dropdown nav-sub nd2">
                                     <li class="position-relative">
-                                        <a href="#" class="nav-link">Level 7 PG Dip in f19</a>
+                                        <a href="Master-Injector-Level7-Diploma.php" class="nav-link">Master Injector Level 7 Diploma</a>
                                     </li>
                                 </ul>
                             </li>

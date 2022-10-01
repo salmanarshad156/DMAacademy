@@ -177,7 +177,7 @@ img {
 
 .contact-form {
     background: #006E44;
-    padding: 30px 0;
+    padding: 15px 0;      /*it was 30px 0; before */
 }
 
 .allcontent {
@@ -444,7 +444,7 @@ img {
     display: block;
     text-align: left;
     /*padding-top: 10px;*/
-    font-family: 'Century Gothic', sans-serif;
+    /*font-family: 'Century Gothic', sans-serif; */
     font-weight: bold;
 }
 #main .btn-header-link:focus{
