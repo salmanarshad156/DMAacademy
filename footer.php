@@ -5,7 +5,7 @@
         </div>
         <form class="Signup__form" id="newsletter">
             <input required id="email" type="email" placeholder="Your e-mail">
-            <button form="newsletter" type="submit" class="btn-default">Get offers</button>
+            <button form="newsletter" type="submit" class="btn-default">Subscribe</button>
         </form>
     </section>
     <div class="bg-white py-3 py-lg-5">

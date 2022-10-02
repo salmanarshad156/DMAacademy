@@ -116,7 +116,7 @@ include_once 'navbar.php';
                         </div>
                     </div>
                     <div class="course-button btn-learn">
-                        <a href="#">Learn More</a>
+                        <a href="Essential-Endodontics.php">Learn More</a>
                     </div>
                     <div class="course-button btn-book">
                         <a href="#">book online</a>

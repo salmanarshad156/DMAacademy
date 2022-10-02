@@ -44,7 +44,7 @@
                             <li class="position-relative">
                                 <a href="#" class="nav-link">Dental</a>
                                     <span class="dropdown-icon">
-                                        <i class="fa fa-angle-right"></i>
+                                        <i class="fa fa-chevron-down small"></i>
                                     </span>
                                 <ul class="nav-dropdown nav-sub nd2">
                                     <li class="position-relative">
@@ -55,7 +55,7 @@
                             <li class="position-relative">
                                 <a href="#" class="nav-link">Medical</a>
                                     <span class="dropdown-icon">
-                                        <i class="fa fa-angle-right"></i>
+                                        <i class="fa fa-chevron-down small"></i>
                                     </span>
                                 <ul class="nav-dropdown nav-sub nd2">
                                     <li class="position-relative">
@@ -66,7 +66,7 @@
                             <li class="position-relative">
                                 <a href="#" class="nav-link">Aesthetics</a>
                                 <span class="dropdown-icon">
-                                    <i class="fa fa-angle-right"></i>
+                                    <i class="fa fa-chevron-down small"></i>
                                 </span>
                                 <ul class="nav-dropdown nav-sub nd2">
                                     <li class="position-relative">
