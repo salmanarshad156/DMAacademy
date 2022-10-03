@@ -19,7 +19,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/OwlCarousel/dist/assets/owl.carousel.min.css">
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap"
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap" 
           rel="stylesheet">
     <script src="assets/OwlCarousel/dist/owl.carousel.min.js"></script>
     <link rel="stylesheet" href="assets/css/style.css">
