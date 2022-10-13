@@ -1,7 +1,7 @@
 <footer>
     <section class="Signup">
         <div class="Signup__text">
-            <h5 class="text-green text-center mb-4">Join our mailing list</h5>
+            <h5 class="text-green text-center mb-4" style="font-size: 1.6rem !important;">Join our mailing list</h5>
         </div>
         <form class="Signup__form" id="newsletter">
             <input required id="email" type="email" placeholder="Your e-mail">
@@ -36,11 +36,11 @@
             © 2022 DMA Academy-All Rights Reserved
         </div>
         <div>
-            <a href="#">Privacy policy</a>/<a href="#">Cookie Policy</a>
+            <a href="#">Privacy policy</a>&nbsp;|&nbsp;<a href="#">Cookie Policy</a>
         </div>
     </div>
 </footer>
 
 <div class="floating-btn">
-    <a href="#" class="btn-default">Book Online</a>
+    <a href="https://google.com" target="_blank" class="btn-default">Book Online</a>
 </div>

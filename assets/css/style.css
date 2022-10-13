@@ -272,7 +272,7 @@ img {
 }
 
 .step-text {
-    font-size: 20px;
+    font-size: 16px;
     transition: all 0.3s;
     color: #006E44;
     letter-spacing: 3px;
@@ -412,6 +412,12 @@ img {
 
 .doc-2 {
     background-image: url("../img/doc-2.png");
+    background-position: top;
+    background-size: cover;
+    min-height: 320px;
+}
+.doc-3 {
+    background-image: url("../img/doc-3.jpg");
     background-position: top;
     background-size: cover;
     min-height: 320px;

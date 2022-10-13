@@ -133,7 +133,7 @@ include_once 'navbar.php';
                         </div>
                     </div>
                     <div class="course-button btn-learn">
-                        <a href="#">Learn More</a>
+                        <a href="Master-Injector-Level7-Diploma.php">Learn More</a>
                     </div>
                     <div class="course-button btn-book">
                         <a href="#">book online</a>

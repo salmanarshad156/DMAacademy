@@ -43,13 +43,13 @@ include_once 'navbar.php';
         <div class="step">
             <div class="step-text">
                 <img src="assets/img/icon-pound.png" alt="">
-                <div>£ 750+ vat</div>
+                <div>£ 890+ vat</div>
             </div>
         </div>
         <div class="step">
             <div class="step-text">
                 <img src="assets/img/icon-calendar.png" alt="">
-                <div>London July 22</div>
+                <div>London (3rd & 4th March 23)<br>Glasgow (19th & 20th May 23)</div>
             </div>
         </div>
         <div class="step">
@@ -84,21 +84,23 @@ include_once 'navbar.php';
             </div>
         </div>
         <div class="row text-md-left align-items-center mb-4">
-            <div class="col-md-3 doc-2"></div>
+            <div class="col-md-3 doc-3"></div>
             <div class="col-md-9 pt-3 py-md-3">
                 <h5 class="font-weight-bold">Dr Frederuci Ferreira</h5>
                 <br>
-                Considered an opinion leader in his field, Dr Giovarruscio is a GDC
-                certified specialist in endodontics. His colleagues recognise him for his
-                proactive and innovative approach, as well as his professionalism and
-                exceptional talent.
+                Frederico originates from Portugal. After graduating from Porto,
+                he held a post at the university as a clinical assistant, worked
+                in private practice and a private hospital.
                 <br><br>
-                Dr Massimo holds over eighteen years experience restorative dentistry,
-                endodontics and aesthetic dentistry. He has an outstanding reputation
-                as an endodontist.
+                Frederico completed his MSc in Endodontics with Distinction at the
+                prestigious King’s College in London. He exclusively practices endodontics
+                and collaborates as a clinical tutor at the Delta Dental Academy in Bristol.
+                He is also a UK Key Opinion Leader for the award-winning German microscope
+                brand CJ OPTIK and Eighteenth Medical.
                 <br><br>
-                Dr Giovarruscio lectures globally as well as teaching endodontics at
-                King’s College London Dental Institute to postgrads and undergrads.
+                Dr Ferreira is a member British Endodontic Society (BES), the European Society
+                of Endodontology (ESE), the British Academy of Microscope Dentistry (BAMD) and
+                the Academy of Microscope Enhanced Dentistry (AMED)
             </div>
         </div>
     </div>
@@ -117,15 +119,20 @@ include_once 'navbar.php';
         <h5 class="font-weight-bold">OBJECTIVES</h5>
         <br>
         <ul>
-            <li>Managing Endodontic treatment in the post COVID-19 Era and Evidence-Based Concepts in Endodontics</li>
+            <li>Evidence-Based Concepts in Endodontics</li>
             <li>Diagnosis (CBCT Imaging in Endodontics), Magnification and Workflow</li>
             <li>Gain confidence at Rubber Dam isolation (Hands-on)</li>
-            <li>Contemporary access cavity and Canal Location. Preservation of tooth structure, for strong End teeth, predictable and reproducible results (Hands-on)</li>
-            <li>Rotary instrumentation (Continuous Rotation and Reciprocation), Easy to follow protocols, Essential Kit Fanta Files and Wave One Gold, using 3D printed teeth (Hands-on)</li>
-            <li>Safe irrigation techniques. Obturation: Modern and Easy to learn. Bioceramic Sealers and Single Cone Technique (Hands-on).</li>
-            <li>Introduction to carrier based Obturation and Continuous Wave of Condensation (Hands-on)</li>
-            <li>Restoration of Endodontically Treated Teeth: simplified Core Build-up.</li>
-            <li>Learn the importance and advantages of an adequate seal and immediate post-endodontic core build up.</li>
+            <li>Contemporary access cavity and Canal Location. Preservation of tooth structure, for
+                strong End teeth, predictable and reproducible results (Hands-on)</li>
+            <li>Rotary instrumentation (Continuous Rotation and Reciprocation), Easy to follow
+                protocols, Essential Kit Fanta Files and Wave One Gold, using 3D printed teeth
+                (Hands-on)</li>
+            <li>Safe irrigation techniques. Obturation: Modern and Easy to learn.</li>
+            <li>Bioceramic Sealers and Single Cone Technique (Hands-on).</li>
+            <li>Introduction to carrier based Obturation and Continuous Wave of Condensation
+                (Hands-on)</li>
+            <li>Learn the importance and advantages of an adequate seal and immediate post-
+                endodontic core build up.</li>
 
         </ul>
     </div>
@@ -145,14 +152,17 @@ include_once 'navbar.php';
                                 <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse"
                                    data-target="#faq1"
                                    aria-expanded="true" aria-controls="faq1">
-                                    1. Who is the Diploma accredited by and is it a real Diploma?
+                                    1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do?
                                 </a>
                             </h2>
                         </div>
 
                         <div id="faq1" class="collapse" aria-labelledby="faq-head1" data-parent="#faq">
                             <div class="card-body">
-                                The Diploma is accredited and awarded by EduQual (level 7)
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+                                mollit anim id est laborum.
                             </div>
                         </div>
                     </div>
@@ -162,20 +172,17 @@ include_once 'navbar.php';
                                 <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse"
                                    data-target="#faq2"
                                    aria-expanded="true" aria-controls="faq2">
-                                    2. How is the Diploma cost so competitive?
+                                    2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do?
                                 </a>
                             </h2>
                         </div>
 
                         <div id="faq2" class="collapse" aria-labelledby="faq-head2" data-parent="#faq">
                             <div class="card-body">
-                                As a business we are not providing courses only, we are also SmileFast implant lab, we
-                                have multiple revenue streams allowing us to layer profit across different products, not
-                                all in one area such as the course fee.
-                                <br><br>
-                                We want to break down the barriers to learning implants and high course fees was one of
-                                those barriers, we have a business model which gives you value as well as maintaining a
-                                high standard of education.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+                                mollit anim id est laborum.
                             </div>
                         </div>
                     </div>
@@ -185,16 +192,17 @@ include_once 'navbar.php';
                                 <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse"
                                    data-target="#faq3"
                                    aria-expanded="true" aria-controls="faq3">
-                                    3. Who are the lead clinicians for the Diploma?
+                                    3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do?
                                 </a>
                             </h2>
                         </div>
 
                         <div id="faq3" class="collapse" aria-labelledby="faq-head3" data-parent="#faq">
                             <div class="card-body">
-                                Fazeela Khan Osbourne and Jon Swarbrigg are the lead clinicians for the Diploma in
-                                implant dentistry, click on their image on the home page to see their full bio, combined
-                                they have over 30 year’s experience in implant dentistry.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+                                mollit anim id est laborum.
                             </div>
                         </div>
                     </div>
@@ -204,16 +212,17 @@ include_once 'navbar.php';
                                 <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse"
                                    data-target="#faq4"
                                    aria-expanded="true" aria-controls="faq4">
-                                    4. Which implant system do I use for the Diploma?
+                                    4. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do?
                                 </a>
                             </h2>
                         </div>
 
                         <div id="faq4" class="collapse" aria-labelledby="faq-head4" data-parent="#faq">
                             <div class="card-body">
-                                The Diploma teaches the principles of implant placement and restorative dentistry, this
-                                can be applied to any implant system following the Diploma, however all componentry for
-                                the 12-month Diploma will be provided by Bio Horizons.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+                                mollit anim id est laborum.
                             </div>
                         </div>
                     </div>
@@ -223,16 +232,17 @@ include_once 'navbar.php';
                                 <a href="#" class="btn btn-header-link collapsed" data-toggle="collapse"
                                    data-target="#faq5"
                                    aria-expanded="true" aria-controls="faq5">
-                                    5. Where are the hands-on surgical days based?
+                                    5. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do?
                                 </a>
                             </h2>
                         </div>
 
                         <div id="faq5" class="collapse" aria-labelledby="faq-head5" data-parent="#faq">
                             <div class="card-body">
-                                The 6 hands on surgical days will be at the following hotel address
-                                The Sheraton Skyline Hotel, Heathrow, London, UB3 5BP, dates will be confirmed in your
-                                welcome email.
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+                                mollit anim id est laborum.
                             </div>
                         </div>
                     </div>

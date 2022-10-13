@@ -1,9 +1,9 @@
 <head>
     <link rel="icon" href="assets/img/nav-logo.png" type="image/png"/>
+    <link rel="apple-touch-icon" href="assets/img/nav-logo.png"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-     <link rel="icon" href="assets/img/sfi-logo.png" type="image/png"/>
- 	 <link rel="apple-touch-icon" href="assets/img/sfi-logo.png"/>
+
     <title>The DMA Academy</title>
 
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"

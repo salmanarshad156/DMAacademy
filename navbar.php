@@ -31,7 +31,7 @@
                         <a class="nav-link <?= $a ?>" href="index.php"><span>Home</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link <?= $b ?>" href="#about-us-section"><span>About us</span></a>
+                        <a class="nav-link <?= $b ?>" href="index.php#about-us-section"><span>About us</span></a>
                     </li>
                     <li class="nav-item position-relative">
                         <a class="nav-link dropdown-button1 <?= $c ?>" href="">
