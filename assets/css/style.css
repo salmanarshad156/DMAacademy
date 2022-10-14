@@ -177,7 +177,7 @@ img {
 
 .contact-form {
     background: #006E44;
-    padding: 15px 0;      /*it was 30px 0; before */
+    padding: 15px 0; /*it was 30px 0; before */
 }
 
 .allcontent {
@@ -416,6 +416,7 @@ img {
     background-size: cover;
     min-height: 320px;
 }
+
 .doc-3 {
     background-image: url("../img/doc-3.jpg");
     background-position: top;
@@ -423,9 +424,8 @@ img {
     min-height: 320px;
 }
 
-
 /*FAQ*/
-#main .card{
+#main .card {
     margin-bottom: 10px;
     background: transparent;
 }
@@ -438,12 +438,12 @@ img {
     background: rgba(0, 110, 68, .7);
 }
 
-#main .card-header{
+#main .card-header {
     background: #006E44;
 
 }
 
-#main .btn-header-link{
+#main .btn-header-link {
     color: white !important;
     /*font-size: 24px;*/
     letter-spacing: 1px;
@@ -453,7 +453,8 @@ img {
     /*font-family: 'Century Gothic', sans-serif; */
     font-weight: bold;
 }
-#main .btn-header-link:focus{
+
+#main .btn-header-link:focus {
     box-shadow: none;
 }
 
@@ -467,6 +468,7 @@ img {
     margin-top: 5px;
 
 }
+
 #main .btn-header-link.collapsed:after {
     font-family: 'Font Awesome 5 Free';
     content: "\f067";
@@ -477,16 +479,16 @@ img {
     margin-top: 5px;
 }
 
-#main .btn{
+#main .btn {
     white-space: initial;
 }
 
-
 @media screen and (max-width: 991px) {
-    .nav-item{
+    .nav-item {
         width: 100%;
     }
 }
+
 @media screen and (max-width: 768px) {
     #nav-logo img {
         max-width: 60px;
@@ -528,6 +530,10 @@ footer a:hover {
 .social-links a {
     color: #006E44 !important;
     font-size: 24px;
+}
+
+.footer-logo {
+    max-width: 100px;
 }
 
 footer .bg-green a {
@@ -608,9 +614,10 @@ footer .bg-green a {
 
 /*News Letter*/
 .Signup {
-    padding: 25px 15px 0;
+    /*padding: 25px 15px 0;*/
 }
-.Signup h5{
+
+.Signup h5 {
     font-family: 'Designer', sans-serif;
     text-transform: uppercase;
 }
@@ -634,7 +641,7 @@ footer .bg-green a {
     color: #6d6d6d;
     transition: border 0.3s, box-shadow 0.3s;
     width: 90%;
-    max-width: 300px;
+    max-width: 360px;
 }
 
 .Signup__form input:focus {
@@ -647,6 +654,7 @@ footer .bg-green a {
     .Signup__form {
         display: block;
     }
+
     .Signup__form input {
         margin: 0;
         width: 100%;
@@ -655,23 +663,23 @@ footer .bg-green a {
     }
 }
 
-.floating-btn{
+.floating-btn {
     position: fixed;
     right: 15px;
     bottom: 30px;
 }
 
-.floating-btn .btn-default{
-    box-shadow: 0 0 5px 5px rgba(0,0,0,0.2);
+.floating-btn .btn-default {
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.2);
 }
 
 /*DropDown*/
-.nav-dropdown{
+.nav-dropdown {
     position: absolute;
     top: 40px;
     left: 20px;
     background: #006E44 !important;
-    box-shadow: 0 0 2px 2px rgba(0,0,0,0.2);
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.2);
     padding: 0;
     min-width: 190px;
     visibility: hidden;
@@ -684,18 +692,21 @@ footer .bg-green a {
     list-style-type: none;
     margin: 0;
 }
-.nav-sub{
+
+.nav-sub {
     top: 0;
     left: 190px;
     min-width: 150px;
 }
-.nav-dropdown .nav-link{
+
+.nav-dropdown .nav-link {
     margin: 0;
     text-align: left;
     font-weight: 400;
     font-size: 15px;
     padding: 10px 15px !important;
 }
+
 ul li:hover > .nav-dropdown,
 ul li ul:hover {
     visibility: visible;
@@ -703,10 +714,12 @@ ul li ul:hover {
     /*display: block;*/
     height: 120px;
 }
+
 ul li:hover > .nav-sub,
 ul li ul:hover {
     height: 60px;
 }
+
 ul li:focus > .nav-dropdown,
 ul li ul:focus {
     visibility: visible;
@@ -714,32 +727,38 @@ ul li ul:focus {
     /*display: block;*/
     height: 120px;
 }
-.dropdown-icon{
+
+.dropdown-icon {
     display: none;
 }
 
-@media screen and (max-width: 991px){
-    .nav-dropdown{
+@media screen and (max-width: 991px) {
+    .nav-dropdown {
         position: relative;
         top: 0;
         left: 0;
     }
-    .nav-dropdown .nav-link{
+
+    .nav-dropdown .nav-link {
         text-align: center;
     }
+
     ul li:hover > .nav-dropdown,
     ul li ul:hover {
         height: auto;
     }
+
     ul li:hover > .nav-sub,
     ul li ul:hover {
         height: auto;
     }
+
     ul li:focus > .nav-dropdown,
     ul li ul:focus {
         height: auto;
     }
-    .dropdown-icon{
+
+    .dropdown-icon {
         position: absolute;
         right: 10px;
         top: 10px;
@@ -749,6 +768,23 @@ ul li ul:focus {
         line-height: 20px;
         text-align: center;
         color: #959595 !important;
+    }
+
+    .footer-logo {
+        max-width: 100px;
+        margin: auto;
+    }
+
+    .floating-btn {
+        position: fixed;
+        right: 0;
+        left: 0;
+        width: 100%;
+        text-align: center;
+        bottom: 10px;
+    }
+    .footer-bottom{
+        padding-bottom: 65px !important;
     }
 }
 
