@@ -530,6 +530,7 @@ footer a:hover {
 .social-links a {
     color: #006E44 !important;
     font-size: 24px;
+    margin: 0 3px;
 }
 
 .footer-logo {
@@ -632,7 +633,7 @@ footer .bg-green a {
 }
 
 .Signup__form input {
-    border: 2px solid #6d6d6d;
+    border: 1px solid #006E44;
     border-radius: 3px;
     padding: 15px;
     font-family: 'Montserrat', sans-serif;
@@ -642,11 +643,18 @@ footer .bg-green a {
     transition: border 0.3s, box-shadow 0.3s;
     width: 90%;
     max-width: 360px;
+    height: 40px;
+    border-radius: 10px;
+}
+.Signup__form .btn-default {
+    padding: 5px 50px;
+    height: 42px;
+
 }
 
 .Signup__form input:focus {
     outline: none;
-    border: 2px solid #006E44;
+    border: 1px solid #006E44;
     box-shadow: inset 1px 1px 2px 0 #c9c9c9;
 }
 
