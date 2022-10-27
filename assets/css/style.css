@@ -678,7 +678,8 @@ footer .bg-green a {
 }
 
 .floating-btn .btn-default {
-    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.2);
+    /*box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.2);*/
+    background: #c0c0c0;
 }
 
 /*DropDown*/
@@ -725,7 +726,7 @@ ul li ul:hover {
 
 ul li:hover > .nav-sub,
 ul li ul:hover {
-    height: 60px;
+    height: auto;
 }
 
 ul li:focus > .nav-dropdown,
