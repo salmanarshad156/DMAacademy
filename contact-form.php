@@ -4,20 +4,13 @@ if (isset($_POST["email"])) {
     $contact = $_POST["phone"];
     $email = $_POST["email"];
     $location = $_POST["location"];
-    $bestday = $_POST["bestday"];
-    $besttime = $_POST["besttime"];
     $description = $_POST["message"];
-    $refined = $_POST["servicetype"];
-    $kuchBhi = "";
-    foreach ($refined as $k ){
-        $kuchBhi=$kuchBhi . ", " . $k;
-    }
-
+    
 
     $to_email = 'faseehullah2121@gmail.com';
-    $subject = 'New query from Dimension Digital';
-    $message = "<html><head><title>HTML email</title></head><body><strong>Name:</strong> $fname<br/><strong>Contact:</strong> $contact<br/><strong>Email:</strong> $email<br/><strong>Best Day to Contact:</strong> $bestday<br/><strong>Best Time to Contact:</strong> $besttime<br/><strong>Description:</strong> $description<br/>
-    <strong>Service Required:</strong> $kuchBhi</body></html>";
+    $subject = 'New query from DMA Academy Contact Form';
+    $message = "<html><head><title>HTML email</title></head><body><strong>Name:</strong> $fname<br/><strong>Contact:</strong> $contact<br/><strong>Email:</strong> $email<br/><strong>Description:</strong> $description<br/>
+    </body></html>";
 
     $headers = "MIME-Version: 1.0" . "\r\n";
     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
