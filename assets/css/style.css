@@ -188,7 +188,67 @@ img {
 }
 
 /*Contact form styling STARTS*/
+.error-popup2{
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: transparent;
+}
+.popup-wrap2{
+    background: #006E44 !important;
+    border-radius: 5px;
+ /*   box-shadow: 0 0 5px 5px rgba(0,0,0,0.2); */
+    padding: 5px 10px;
+    max-width: 500px;
+    margin: auto;
+}
+.hide-popup2{
+    text-align: right;
+    cursor: pointer;
+    font-weight: bold;
+}
+.popup-text2{
+    padding: 10px 30px 30px;
+    text-align: center;
+    color:white;
+}
 
+/* NEWS LETTER POPUP STYLING */
+.error-popupNL{
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: transparent;
+}
+.popup-wrapNL{
+    background: #006E44 !important;
+    border-radius: 5px;
+ /*   box-shadow: 0 0 5px 5px rgba(0,0,0,0.2); */
+    padding: 5px 10px;
+    max-width: 500px;
+    margin: auto;
+}
+.hide-popupNL{
+    text-align: right;
+    cursor: pointer;
+    font-weight: bold;
+}
+.popup-textNL{
+    padding: 10px 30px 30px;
+    text-align: center;
+    color:white;
+}
+/* NEWS LETTER POPUP STYLING */
 /*Contact form styling END*/
 .allcontent .error-popup {
     position: fixed;
@@ -680,6 +740,7 @@ footer .bg-green a {
 .floating-btn .btn-default {
     /*box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.2);*/
     background: #c0c0c0;
+    color:#006E44 !important;
 }
 
 /*DropDown*/
